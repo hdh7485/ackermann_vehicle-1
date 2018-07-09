@@ -9,7 +9,7 @@ project(ackermann_vehicle_teleop)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   joy
-  teleop_joy
+  teleop_twist_joy
 )
 
 ## System dependencies are found with CMake's conventions
